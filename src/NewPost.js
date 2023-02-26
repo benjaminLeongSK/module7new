@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import Button from 'react-bootstrap/Button';
+import TextField from '@mui/material/TextField';
 
 const NewPost = () => {
     const [title, setTitle] = useState('');
@@ -28,24 +28,37 @@ const NewPost = () => {
 
             <form onSubmit={handleSubmit}>
                 <label>Dweet title:</label>
-                <input 
-                    type="text"
+                <TextField
                     required
+                    id="outlined-required"
+                    label="Required"
                     value={title}
+                    fullWidth
+                    margin="normal"
                     onChange={(e) => setTitle(e.target.value)}
                 />
                 <label>Dweet body:</label>
-                <textarea
+                <TextField
+                    id="outlined-multiline-static"
                     required
+                    label="Required"
+                    multiline
+                    rows={4}
+                    fullWidth
+                    margin="normal"
                     value={body}
                     onChange={(e) => setBody(e.target.value)}
-                ></textarea>
+                />
                 <label>Dweeter:</label>
-                <textarea
+                <TextField
                     required
+                    id="outlined-required"
+                    label="Required"
                     value={username}
+                    fullWidth
+                    margin="normal"
                     onChange={(e) => setUsername(e.target.value)}
-                ></textarea>
+                />
 
                <button>Add Blog</button>
             </form>

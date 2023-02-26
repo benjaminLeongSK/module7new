@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react"
+import Divider from '@mui/material/Divider';
 
 const Posts = () => {
     const [postList, setPostList] = useState([]); 
@@ -21,6 +22,7 @@ const Posts = () => {
                     <h2>{ post.title }</h2>
                     <p>{ post.body }</p>
                     <h5>Written by: {post.username}</h5>
+                    <Divider variant="fullWidth" />
                 </div>
             ))}
         </section>
