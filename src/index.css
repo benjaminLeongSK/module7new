@@ -35,7 +35,7 @@
   padding: 20px;
 }
 
-.blog-details h1 {
+.blog-details h1, p {
   margin: 20px 0;
 }
 
@@ -44,8 +44,8 @@
   color: #007cad;
   margin: 10px 0;
 }
-.blog-details p {
-  margin: 20px 0;
+.blog-details h5 {
+  margin-bottom: 20px;
 }
 
 

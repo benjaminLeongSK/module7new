@@ -2,63 +2,33 @@
   "posts": [
     {
       "title": "My First Post",
-      "body": "Today is the day i created my first post via ReactJS",
+      "body": "One Piece (stylized in all caps) is a Japanese manga series written and illustrated by Eiichiro Oda. It has been serialized in Shueisha's shōnen manga magazine Weekly Shōnen Jump since July 1997, with its individual chapters compiled into 104 tankōbon volumes as of November 2022. The story follows the adventures of Monkey D. Luffy, a boy whose body gained the properties of rubber after unintentionally eating a Devil Fruit. With his pirate crew, the Straw Hat Pirates, Luffy explores the Grand Line in search of the deceased King of the Pirates Gol D. Roger's ultimate treasure known as the 'One Piece' in order to become the next King of the Pirates.",
       "username": "Johnny Sins",
       "id": 1
     },
     {
       "title": "My Second Post",
-      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-      "username": "Johnny Sins",
+      "body": "The manga spawned a media franchise, having been adapted into a festival film produced by Production I.G, and an anime series produced by Toei Animation, which began broadcasting in 1999. Additionally, Toei has developed fourteen animated feature films, one original video animation, and thirteen television specials. Several companies have developed various types of merchandising and media, such as a trading card game and numerous video games. The manga series was licensed for an English language release in North America and the United Kingdom by Viz Media and in Australia by Madman Entertainment. The anime series was licensed by 4Kids Entertainment for an English-language release in North America in 2004 before the license was dropped and subsequently acquired by Funimation in 2007.",
+      "username": "Joy Boy",
       "id": 2
     },
     {
       "title": "My Third Post",
       "body": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
-      "username": "Johnny Sins",
+      "username": "Charlotte",
       "id": 3
     },
     {
       "title": "First Post Attempt",
-      "body": "testing one two threetesting one two threetesting one two threetesting one two threetesting one two threetesting one two threetesting one two threetesting one two threetesting one two threetesting one two threetesting one two threetesting one two three",
-      "username": "Benjamin",
+      "body": "One Piece has received praise for its storytelling, world-building, art, characterization, and humor. It has received many awards and is ranked by critics, reviewers, and readers as one of the best manga of all time. Several volumes of the manga have broken publishing records, including the highest initial print run of any book in Japan. In 2015 and 2022, One Piece set the Guinness World Record for 'the most copies published for the same comic book series by a single author'. It was the best-selling manga for eleven consecutive years from 2008 to 2018, and is the only manga that had an initial print of volumes of above 3 million continuously for more than 10 years, as well as the only that had achieved more than 1 million copies sold in all of its over 100 published tankōbon volumes. One Piece is the only manga whose volumes have ranked first every year in Oricon's weekly comic chart existence since 2008.",
+      "username": "ODA",
       "id": 4
     },
     {
       "title": "The Final Test",
-      "body": "\"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?\"",
+      "body": "As of August 2022, One Piece had over 516.6 million copies in circulation in 61 countries and regions worldwide, making it the best-selling manga series in history, and the best-selling comic series printed in book volume. It is also one of the highest-grossing media franchises of all time.",
       "username": "Donald Trunks",
       "id": 5
-    },
-    {
-      "title": "123",
-      "body": "123",
-      "username": "123",
-      "id": 6
-    },
-    {
-      "title": "qweqw",
-      "body": "",
-      "username": "qw",
-      "id": 7
-    },
-    {
-      "title": "122",
-      "body": "",
-      "username": "12112",
-      "id": 8
-    },
-    {
-      "title": "123123",
-      "body": "",
-      "username": "123123123",
-      "id": 9
-    },
-    {
-      "title": "213123",
-      "body": "123123123213123213",
-      "username": "123123",
-      "id": 10
     }
   ]
 }
