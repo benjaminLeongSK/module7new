@@ -6,6 +6,7 @@
   color: #333;
 }
 
+/* navbar style */
 .navbar {
   padding: 20px;
   display: flex;
@@ -27,6 +28,8 @@
 .navbar a:hover {
   color: #007cad;
 }
+
+/* blog home page */
 .content {
   margin: 40px;
   padding: 20px;
@@ -48,3 +51,35 @@
 .blog-details div {
   box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 2px 0px;
 }
+
+/* new post page */
+.newPost {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+.newPost label {
+  text-align: left;
+  display: block;
+}
+.newPost h2 {
+  font-size: 20px;
+  color: #007cad;
+  margin-bottom: 30px;
+}
+.newPost input, .newPost textarea, .newPost select {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+}
+/* .newPost button {
+  background: #007cad;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+} */

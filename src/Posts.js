@@ -12,7 +12,7 @@ const Posts = () => {
             .then(data => {
                 setPostList(data)
             })
-    }, [])
+    },[])
     return ( 
         <section className="blog-details">
             <h1>List of Posts</h1>
